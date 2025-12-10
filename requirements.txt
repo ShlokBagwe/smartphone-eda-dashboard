@@ -1,0 +1,20 @@
+# requirements
+
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+
+# Installation Guide (Windows PowerShell)
+# 1) Create and activate a virtual environment
+#    python -m venv .venv
+#    .\.venv\Scripts\Activate.ps1
+# 2) Upgrade pip and install dependencies
+#    python -m pip install --upgrade pip
+#    pip install -r requirements.txt
+# 3) Run the Streamlit app
+#    streamlit run app.py
+# Optional: Freeze exact versions later
+#    pip freeze > requirements.txt
+
