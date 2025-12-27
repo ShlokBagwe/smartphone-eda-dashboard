@@ -130,3 +130,6 @@ outputs/
 *.tar
 *.gz
 *.7z
+
+# Allow required dataset to be tracked
+!smartphones.csv
