@@ -2,6 +2,9 @@
 
 A Streamlit application for exploratory data analysis (EDA) and comparison of smartphones. It helps analyze pricing, ratings, and key specifications across brands, and lets you compare two phones side by side.
 
+## Streamlit Dashboard
+- link: https://shlokbagwe-smartphone-eda-dashboard-app-gcfdb4.streamlit.app/
+
 ## Features
 - Overview: High-level introduction to the dataset and dashboard.
 - Brand Explorer: Filter by brand, price range, RAM, and storage; view metrics and distributions.
